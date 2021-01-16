@@ -28,8 +28,8 @@ You can set a parameter called domain and email in a GET query like so
  Or POST JSON with the csv parameter like so:
  
  `{
- "email": "rjf.buzink@gmail.nl",
- "domain": "uva.nl"
+ "email": "henryford@gmail.com",
+ "domain": "blabla.com"
 }`
 
 In both cases the function will return the UPN as the body, like so:
